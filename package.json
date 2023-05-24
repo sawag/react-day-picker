@@ -1,6 +1,6 @@
 {
   "name": "react-day-picker",
-  "version": "7.4.10",
+  "version": "7.5.0",
   "description": "Flexible date picker component for React",
   "browser": "lib/react-day-picker.min.js",
   "main": "build/index.js",
@@ -55,10 +55,10 @@
   },
   "homepage": "https://react-day-picker.js.org",
   "peerDependencies": {
-    "react": "~0.13.x || ~0.14.x || ^15.0.0 || ^16.0.0 || ^17.0.0"
+    "react": "~0.13.x || ~0.14.x || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
-    "@types/react": "^16.9.2",
+    "@types/react": "^18.2.0",
     "autoprefixer": "^8.4.1",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
@@ -95,9 +95,9 @@
     "postcss-cli": "^5.0.0",
     "prettier": "^1.14.2",
     "raf": "^3.4.0",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-test-renderer": "^16.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-test-renderer": "^18.2.0",
     "rimraf": "^2.6.2",
     "webpack": "^3.10.0"
   },
